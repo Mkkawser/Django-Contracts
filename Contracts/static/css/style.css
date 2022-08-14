@@ -1,0 +1,38 @@
+.data {
+  width: 50%;
+  clear: left;
+  position: absolute;
+  height: 78%;
+  overflow: scroll;
+  margin-top: 3%;
+}
+
+
+.full {
+  margin: 2%;
+}
+
+.src {
+  width: 42%;
+  padding-left: 2%;
+}
+
+td.ul {
+  width: 2%;
+}
+
+.un{
+  text-decoration: none;
+  font-size: 17px;
+}
+
+tr.stk {
+  margin-top: 5%;
+}
+
+div.sub {
+  position: absolute;
+  left: 60%;
+  top: 25%;
+  word-spacing: 1em;
+}
